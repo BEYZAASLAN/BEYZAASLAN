@@ -89,5 +89,5 @@ jobs:
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/BEYZAASLAN)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BEYZAASLAN/BEYZAASLAN/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BEYZAASLAN/BEYZAASLAN/output/github-contribution-grid-snake.svg#gh-light-mode-only)
