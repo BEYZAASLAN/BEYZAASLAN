@@ -7,7 +7,7 @@
 <h2 align="center"> 
  </h2> 
 
-<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
+<img align="center" width="400" src="https://github.com/BEYZAASLAN/BEYZAASLAN/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
 <a href="https://discord.gg/venelopi_">
 <strong>Discord ⬅️ </a>
 
